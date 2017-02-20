@@ -6,3 +6,4 @@ Dummy Projekt to learn Github
 ..
 ..
 ??
+Java ignores
